@@ -10,3 +10,8 @@ One line per deposit: date, file, version, review status. This ledger is the rep
 **Provenance (repo-wide):** Dana Baran (originator, Cherishment doctrine, Lumina canon). Collaborators per document, credited in each file's header: Claude (drafting), Gemini & Grok (adversarial review), Perplexity (prior-art validation).
 | 2026-07-02 | CONTEXT.md | v0.1 | Glossary for cold readers; added after external cold-read finding (canon-dependency gap). |
 | 2026-07-02 | — (open ticket #2) | — | Conflict between cherished nodes: precedence/mediation when protecting one node's boundary collides with another's floor; A(s) may go empty. Unaddressed in v0.5. |
+## [Unreleased] / v0.1 Implementation Deposit (2026-07-03)
+- Added `implementation/cherishment_constraint_engine.py` + `CCE-RUN-LOG.txt`
+- 17/17 adversarial suite held; ticket #2 reproduced empirically
+- σ-calibration finding logged for future v0.6
+- Empty set clause identified as next priority
