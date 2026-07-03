@@ -8,3 +8,5 @@ One line per deposit: date, file, version, review status. This ledger is the rep
 | 2026-07-02 | CANON-INTERFACE-CONDITIONS.md | v0.1 | Unreviewed checklist; drafted without sibling documents in hand. Verify against each sibling as it enters the canon. |
 
 **Provenance (repo-wide):** Dana Baran (originator, Cherishment doctrine, Lumina canon). Collaborators per document, credited in each file's header: Claude (drafting), Gemini & Grok (adversarial review), Perplexity (prior-art validation).
+| 2026-07-02 | CONTEXT.md | v0.1 | Glossary for cold readers; added after external cold-read finding (canon-dependency gap). |
+| 2026-07-02 | — (open ticket #2) | — | Conflict between cherished nodes: precedence/mediation when protecting one node's boundary collides with another's floor; A(s) may go empty. Unaddressed in v0.5. |
